@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\bbdnet2051\Desktop\intern\c#\Calculator.cs" Link="Calculator.cs" />
+  </ItemGroup>
+
+</Project>

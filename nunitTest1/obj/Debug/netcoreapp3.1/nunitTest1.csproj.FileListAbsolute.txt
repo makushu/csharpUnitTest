@@ -1,0 +1,8 @@
+C:\Users\bbdnet2051\source\repos\nunitTest1\bin\Debug\netcoreapp3.1\nunitTest1.deps.json
+C:\Users\bbdnet2051\source\repos\nunitTest1\bin\Debug\netcoreapp3.1\nunitTest1.dll
+C:\Users\bbdnet2051\source\repos\nunitTest1\bin\Debug\netcoreapp3.1\nunitTest1.pdb
+C:\Users\bbdnet2051\source\repos\nunitTest1\obj\Debug\netcoreapp3.1\nunitTest1.csprojAssemblyReference.cache
+C:\Users\bbdnet2051\source\repos\nunitTest1\obj\Debug\netcoreapp3.1\nunitTest1.AssemblyInfoInputs.cache
+C:\Users\bbdnet2051\source\repos\nunitTest1\obj\Debug\netcoreapp3.1\nunitTest1.AssemblyInfo.cs
+C:\Users\bbdnet2051\source\repos\nunitTest1\obj\Debug\netcoreapp3.1\nunitTest1.dll
+C:\Users\bbdnet2051\source\repos\nunitTest1\obj\Debug\netcoreapp3.1\nunitTest1.pdb
